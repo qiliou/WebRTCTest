@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  WebRTC
+//  DH5RTC
 //
-//  Created by Qili Ou on 10/10/17.
-//  Copyright © 2017 qilio. All rights reserved.
+//  Created by Chuanqi on 2017/10/13.
+//  Copyright © 2017年 Gift Drop Design. All rights reserved.
 //
 
 import UIKit

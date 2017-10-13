@@ -1,14 +1,14 @@
 //
-//  WebRTCUITests.swift
-//  WebRTCUITests
+//  DH5RTCUITests.swift
+//  DH5RTCUITests
 //
-//  Created by Qili Ou on 10/10/17.
-//  Copyright © 2017 qilio. All rights reserved.
+//  Created by Chuanqi on 2017/10/13.
+//  Copyright © 2017年 Gift Drop Design. All rights reserved.
 //
 
 import XCTest
 
-class WebRTCUITests: XCTestCase {
+class DH5RTCUITests: XCTestCase {
         
     override func setUp() {
         super.setUp()
